@@ -14,4 +14,4 @@ A personal research project: could AI coding agents help me build a trading syst
 - Docker
 
 **Cover:** `cover.png` (1600×1200, 4:3)
-**Link:** README.md write-up (publish location to be decided)
+**Link:** https://github.com/mjrobbins18/trading-research-lab
