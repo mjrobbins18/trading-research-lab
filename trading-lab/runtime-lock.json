@@ -1,0 +1,9 @@
+{
+  "image": "quantconnect/lean@sha256:b34529ae405c2b641010ff742399f56583942523b77bd20052243a78214e1653",
+  "architecture": "arm64",
+  "lean_version": "18186",
+  "python_version": "3.11.11",
+  "target_framework": "net10.0",
+  "source_reference_inspected": "a54e9cc6cee9030e865d4f401c03c0e2373ba199",
+  "note": "Image digest is the executable pin. Source reference is an inspected upstream reference, not a verified image-to-source mapping."
+}

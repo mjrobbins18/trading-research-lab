@@ -1,0 +1,450 @@
+[
+  {
+    "schema_version": 6,
+    "document_id": "v6-fresh-01-nike",
+    "source_sha256": "32b5d21c225756c2dfd3976f99c9b86e08ec70c83cee51eafc33cc5e2124246f",
+    "events": [
+      {
+        "split_basis": "source_nominal_unadjusted",
+        "security": {
+          "type": "common",
+          "class": "A"
+        },
+        "amount": {
+          "value": "0.40",
+          "currency": null,
+          "unit": "per_share",
+          "period": "quarterly"
+        },
+        "dates": {
+          "payment": {
+            "value": "2025-10-01",
+            "status": "explicit",
+            "qualification": "scheduled",
+            "cutoff": null
+          },
+          "record": {
+            "value": "2025-09-02",
+            "status": "explicit",
+            "qualification": null,
+            "cutoff": "close_of_business"
+          },
+          "ex_dividend": {
+            "value": null,
+            "status": "absent",
+            "qualification": null,
+            "cutoff": null
+          }
+        },
+        "evidence": {
+          "amount": [
+            140,
+            153
+          ],
+          "security": [
+            174,
+            206
+          ],
+          "dates": {
+            "payment": [
+              208,
+              223
+            ],
+            "record": [
+              314,
+              331
+            ],
+            "ex_dividend": null
+          }
+        }
+      },
+      {
+        "split_basis": "source_nominal_unadjusted",
+        "security": {
+          "type": "common",
+          "class": "B"
+        },
+        "amount": {
+          "value": "0.40",
+          "currency": null,
+          "unit": "per_share",
+          "period": "quarterly"
+        },
+        "dates": {
+          "payment": {
+            "value": "2025-10-01",
+            "status": "explicit",
+            "qualification": "scheduled",
+            "cutoff": null
+          },
+          "record": {
+            "value": "2025-09-02",
+            "status": "explicit",
+            "qualification": null,
+            "cutoff": "close_of_business"
+          },
+          "ex_dividend": {
+            "value": null,
+            "status": "absent",
+            "qualification": null,
+            "cutoff": null
+          }
+        },
+        "evidence": {
+          "amount": [
+            140,
+            153
+          ],
+          "security": [
+            174,
+            206
+          ],
+          "dates": {
+            "payment": [
+              208,
+              223
+            ],
+            "record": [
+              314,
+              331
+            ],
+            "ex_dividend": null
+          }
+        }
+      }
+    ],
+    "unresolved": [
+      "Currency is unknown: the text uses dollars or $, but neither the text nor supplied currency_context explicitly establishes USD, SEK, or DKK.",
+      "The source does not state an ex-dividend date; that relationship is absent and has not been inferred."
+    ],
+    "cash_available_confirmed": false
+  },
+  {
+    "schema_version": 6,
+    "document_id": "v6-fresh-02-target",
+    "source_sha256": "cfd0687c215111fbd332e609d683ef4fad8907da54df9bc738c2eaa7c1ca726d",
+    "events": [
+      {
+        "split_basis": "source_nominal_unadjusted",
+        "security": {
+          "type": "common",
+          "class": null
+        },
+        "amount": {
+          "value": "1.14",
+          "currency": null,
+          "unit": "per_share",
+          "period": "quarterly"
+        },
+        "dates": {
+          "payment": {
+            "value": "2025-09-01",
+            "status": "explicit",
+            "qualification": "scheduled",
+            "cutoff": null
+          },
+          "record": {
+            "value": "2025-08-13",
+            "status": "explicit",
+            "qualification": null,
+            "cutoff": "close_of_business"
+          },
+          "ex_dividend": {
+            "value": null,
+            "status": "absent",
+            "qualification": null,
+            "cutoff": null
+          }
+        },
+        "evidence": {
+          "amount": [
+            120,
+            147
+          ],
+          "security": [
+            135,
+            147
+          ],
+          "dates": {
+            "payment": [
+              229,
+              242
+            ],
+            "record": [
+              316,
+              331
+            ],
+            "ex_dividend": null
+          }
+        }
+      }
+    ],
+    "unresolved": [
+      "Currency is unknown: the text uses dollars or $, but neither the text nor supplied currency_context explicitly establishes USD, SEK, or DKK.",
+      "The source does not state an ex-dividend date; that relationship is absent and has not been inferred."
+    ],
+    "cash_available_confirmed": false
+  },
+  {
+    "schema_version": 6,
+    "document_id": "v6-fresh-03-mcdonalds",
+    "source_sha256": "4fa0ecb2cfb80fed1c9bc46de6d0e44ac33a17824243a3f5e1400f6cdfc29c35",
+    "events": [
+      {
+        "split_basis": "source_nominal_unadjusted",
+        "security": {
+          "type": "common",
+          "class": null
+        },
+        "amount": {
+          "value": "1.86",
+          "currency": null,
+          "unit": "per_share",
+          "period": "quarterly"
+        },
+        "dates": {
+          "payment": {
+            "value": "2025-12-15",
+            "status": "explicit",
+            "qualification": "scheduled",
+            "cutoff": null
+          },
+          "record": {
+            "value": "2025-12-01",
+            "status": "explicit",
+            "qualification": null,
+            "cutoff": "close_of_business"
+          },
+          "ex_dividend": {
+            "value": null,
+            "status": "absent",
+            "qualification": null,
+            "cutoff": null
+          }
+        },
+        "evidence": {
+          "amount": [
+            149,
+            182
+          ],
+          "security": [
+            164,
+            182
+          ],
+          "dates": {
+            "payment": [
+              192,
+              209
+            ],
+            "record": [
+              263,
+              279
+            ],
+            "ex_dividend": null
+          }
+        }
+      }
+    ],
+    "unresolved": [
+      "Currency is unknown: the text uses dollars or $, but neither the text nor supplied currency_context explicitly establishes USD, SEK, or DKK.",
+      "The source does not state an ex-dividend date; that relationship is absent and has not been inferred."
+    ],
+    "cash_available_confirmed": false
+  },
+  {
+    "schema_version": 6,
+    "document_id": "v6-fresh-04-homedepot",
+    "source_sha256": "adb9f54b59ca6eab4d8b062d295d206f9ef5061f9f2f9cfc9663a3deb1e4bfc7",
+    "events": [
+      {
+        "split_basis": "source_nominal_unadjusted",
+        "security": {
+          "type": "unknown",
+          "class": null
+        },
+        "amount": {
+          "value": "2.30",
+          "currency": null,
+          "unit": "per_share",
+          "period": "quarterly"
+        },
+        "dates": {
+          "payment": {
+            "value": "2025-09-18",
+            "status": "explicit",
+            "qualification": "scheduled",
+            "cutoff": null
+          },
+          "record": {
+            "value": "2025-09-04",
+            "status": "explicit",
+            "qualification": null,
+            "cutoff": "close_of_business"
+          },
+          "ex_dividend": {
+            "value": null,
+            "status": "absent",
+            "qualification": null,
+            "cutoff": null
+          }
+        },
+        "evidence": {
+          "amount": [
+            150,
+            163
+          ],
+          "security": null,
+          "dates": {
+            "payment": [
+              184,
+              202
+            ],
+            "record": [
+              256,
+              273
+            ],
+            "ex_dividend": null
+          }
+        }
+      }
+    ],
+    "unresolved": [
+      "Currency is unknown: the text uses dollars or $, but neither the text nor supplied currency_context explicitly establishes USD, SEK, or DKK.",
+      "The source does not state an ex-dividend date; that relationship is absent and has not been inferred.",
+      "Security identity is unknown: the source specifies a per-share dividend without identifying the entitled security type or class."
+    ],
+    "cash_available_confirmed": false
+  },
+  {
+    "schema_version": 6,
+    "document_id": "v6-fresh-05-chevron",
+    "source_sha256": "b088dd501b3912840277de18863e1e43e7119a1d7f9f18923bd4198b2a5a72d5",
+    "events": [
+      {
+        "split_basis": "source_nominal_unadjusted",
+        "security": {
+          "type": "common",
+          "class": null
+        },
+        "amount": {
+          "value": "1.78",
+          "currency": null,
+          "unit": "per_share",
+          "period": "quarterly"
+        },
+        "dates": {
+          "payment": {
+            "value": "2026-03-10",
+            "status": "explicit",
+            "qualification": "scheduled",
+            "cutoff": null
+          },
+          "record": {
+            "value": "2026-02-17",
+            "status": "explicit",
+            "qualification": null,
+            "cutoff": "close_of_business"
+          },
+          "ex_dividend": {
+            "value": null,
+            "status": "absent",
+            "qualification": null,
+            "cutoff": null
+          }
+        },
+        "evidence": {
+          "amount": [
+            367,
+            417
+          ],
+          "security": [
+            468,
+            488
+          ],
+          "dates": {
+            "payment": [
+              433,
+              447
+            ],
+            "record": [
+              558,
+              575
+            ],
+            "ex_dividend": null
+          }
+        }
+      }
+    ],
+    "unresolved": [
+      "Currency is unknown: the text uses dollars or $, but neither the text nor supplied currency_context explicitly establishes USD, SEK, or DKK.",
+      "The source does not state an ex-dividend date; that relationship is absent and has not been inferred."
+    ],
+    "cash_available_confirmed": false
+  },
+  {
+    "schema_version": 6,
+    "document_id": "v6-fresh-06-cisco",
+    "source_sha256": "42f1dc3ddb8577d621ec594496d6f89d2c265308afc487a781ab6491336c9945",
+    "events": [
+      {
+        "split_basis": "source_nominal_unadjusted",
+        "security": {
+          "type": "common",
+          "class": null
+        },
+        "amount": {
+          "value": "0.41",
+          "currency": null,
+          "unit": "per_share",
+          "period": "quarterly"
+        },
+        "dates": {
+          "payment": {
+            "value": "2025-07-23",
+            "status": "explicit",
+            "qualification": "scheduled",
+            "cutoff": null
+          },
+          "record": {
+            "value": "2025-07-03",
+            "status": "explicit",
+            "qualification": null,
+            "cutoff": "close_of_business"
+          },
+          "ex_dividend": {
+            "value": null,
+            "status": "absent",
+            "qualification": null,
+            "cutoff": null
+          }
+        },
+        "evidence": {
+          "amount": [
+            136,
+            163
+          ],
+          "security": [
+            151,
+            163
+          ],
+          "dates": {
+            "payment": [
+              176,
+              189
+            ],
+            "record": [
+              238,
+              250
+            ],
+            "ex_dividend": null
+          }
+        }
+      }
+    ],
+    "unresolved": [
+      "Currency is unknown: the text uses dollars or $, but neither the text nor supplied currency_context explicitly establishes USD, SEK, or DKK.",
+      "The source does not state an ex-dividend date; that relationship is absent and has not been inferred."
+    ],
+    "cash_available_confirmed": false
+  }
+]

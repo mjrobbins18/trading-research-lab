@@ -1,0 +1,26 @@
+<!doctype html><html><head><meta charset="utf-8"><link rel="stylesheet" href="base.css"><style>
+:root{--bg:linear-gradient(135deg,#f0f9ff 0%,#e0f2fe 100%);--accent:#0369a1}
+.foot{max-width:760px}
+.chart{width:620px;display:flex;flex-direction:column;gap:26px}
+.label{font-size:24px;font-weight:600;letter-spacing:.1em;text-transform:uppercase;color:#64748b}
+.bar-row{display:grid;grid-template-columns:150px 1fr 96px;align-items:center;gap:18px;font-size:30px}
+.track{height:34px;border-radius:10px;background:#f1f5f9;overflow:hidden}
+.fill{height:100%;border-radius:10px;background:#7dd3fc}
+.fill.spy{background:#0369a1}
+.fill.trend{background:#f97316}
+.pct{text-align:right;font-variant-numeric:tabular-nums}
+.note{font-size:26px;font-weight:500;color:#475569;border-top:2px solid #e2e8f0;padding-top:22px;line-height:1.35}
+</style></head><body><div class="card">
+<div class="eyebrow">Research case study</div>
+<h1>It lost to<br>the index.</h1>
+<div class="sub">An AI trading lab built the rigorous way,<br>and an honest look at why it didn't win.</div>
+<div class="foot"><span class="chip strong">737 tests</span><span class="chip">36 / 96 checks passed</span></div>
+</div>
+<div class="art"><div class="box chart">
+<div class="label">Return, Jan 2024 – Aug 2026</div>
+<div class="bar-row"><span>SPY</span><div class="track"><div class="fill spy" style="width:100%"></div></div><span class="pct">66%</span></div>
+<div class="bar-row"><span>Trend rule</span><div class="track"><div class="fill trend" style="width:65%"></div></div><span class="pct">43%</span></div>
+<div class="bar-row"><span>50/50 mix</span><div class="track"><div class="fill" style="width:56%"></div></div><span class="pct">37%</span></div>
+<div class="note">Sharpe: trend 1.19 · SPY 1.32 · 50/50 1.60</div>
+</div></div>
+</body></html>

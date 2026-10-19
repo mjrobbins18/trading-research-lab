@@ -1,0 +1,260 @@
+{
+  "basis": "Six source interpretations and next-version label rules approved by the human reviewer on 2026-10-16. Formalization created separately from v6 implementation. Not an unseen test.",
+  "events_by_document": {
+    "msft-2025-09-15": [
+      {
+        "security": {
+          "type": "unknown",
+          "class": null
+        },
+        "amount": {
+          "value": "0.91",
+          "currency": null,
+          "unit": "per_share",
+          "period": "quarterly"
+        },
+        "split_basis": "source_nominal_unadjusted",
+        "dates": {
+          "payment": {
+            "value": "2025-12-11",
+            "status": "explicit",
+            "qualification": "scheduled",
+            "cutoff": null
+          },
+          "record": {
+            "value": "2025-11-20",
+            "status": "explicit",
+            "qualification": null,
+            "cutoff": null
+          },
+          "ex_dividend": {
+            "value": "2025-11-20",
+            "status": "explicit",
+            "qualification": null,
+            "cutoff": null
+          }
+        }
+      }
+    ],
+    "jnj-2025-04-15": [
+      {
+        "security": {
+          "type": "unknown",
+          "class": null
+        },
+        "amount": {
+          "value": "1.30",
+          "currency": null,
+          "unit": "per_share",
+          "period": "quarterly"
+        },
+        "split_basis": "source_nominal_unadjusted",
+        "dates": {
+          "payment": {
+            "value": "2025-06-10",
+            "status": "explicit",
+            "qualification": "scheduled",
+            "cutoff": null
+          },
+          "record": {
+            "value": "2025-05-27",
+            "status": "explicit",
+            "qualification": null,
+            "cutoff": "close_of_business"
+          },
+          "ex_dividend": {
+            "value": "2025-05-27",
+            "status": "explicit",
+            "qualification": null,
+            "cutoff": null
+          }
+        }
+      }
+    ],
+    "visa-2025-10-28": [
+      {
+        "security": {
+          "type": "common",
+          "class": "A"
+        },
+        "amount": {
+          "value": "0.670",
+          "currency": null,
+          "unit": "per_share",
+          "period": "quarterly"
+        },
+        "split_basis": "source_nominal_unadjusted",
+        "dates": {
+          "payment": {
+            "value": "2025-12-01",
+            "status": "explicit",
+            "qualification": "scheduled",
+            "cutoff": null
+          },
+          "record": {
+            "value": "2025-11-12",
+            "status": "explicit",
+            "qualification": null,
+            "cutoff": null
+          },
+          "ex_dividend": {
+            "value": null,
+            "status": "absent",
+            "qualification": null,
+            "cutoff": null
+          }
+        }
+      }
+    ],
+    "mastercard-2025-06-24": [
+      {
+        "security": {
+          "type": "common",
+          "class": "A"
+        },
+        "amount": {
+          "value": "0.76",
+          "currency": null,
+          "unit": "per_share",
+          "period": "quarterly"
+        },
+        "split_basis": "source_nominal_unadjusted",
+        "dates": {
+          "payment": {
+            "value": "2025-08-08",
+            "status": "explicit",
+            "qualification": "scheduled",
+            "cutoff": null
+          },
+          "record": {
+            "value": "2025-07-09",
+            "status": "explicit",
+            "qualification": null,
+            "cutoff": null
+          },
+          "ex_dividend": {
+            "value": null,
+            "status": "absent",
+            "qualification": null,
+            "cutoff": null
+          }
+        }
+      },
+      {
+        "security": {
+          "type": "common",
+          "class": "B"
+        },
+        "amount": {
+          "value": "0.76",
+          "currency": null,
+          "unit": "per_share",
+          "period": "quarterly"
+        },
+        "split_basis": "source_nominal_unadjusted",
+        "dates": {
+          "payment": {
+            "value": "2025-08-08",
+            "status": "explicit",
+            "qualification": "scheduled",
+            "cutoff": null
+          },
+          "record": {
+            "value": "2025-07-09",
+            "status": "explicit",
+            "qualification": null,
+            "cutoff": null
+          },
+          "ex_dividend": {
+            "value": null,
+            "status": "absent",
+            "qualification": null,
+            "cutoff": null
+          }
+        }
+      }
+    ],
+    "costco-2025-07-16": [
+      {
+        "security": {
+          "type": "common",
+          "class": null
+        },
+        "amount": {
+          "value": "1.30",
+          "currency": null,
+          "unit": "per_share",
+          "period": "quarterly"
+        },
+        "split_basis": "source_nominal_unadjusted",
+        "dates": {
+          "payment": {
+            "value": "2025-08-15",
+            "status": "explicit",
+            "qualification": "scheduled",
+            "cutoff": null
+          },
+          "record": {
+            "value": "2025-08-01",
+            "status": "explicit",
+            "qualification": null,
+            "cutoff": "close_of_business"
+          },
+          "ex_dividend": {
+            "value": null,
+            "status": "absent",
+            "qualification": null,
+            "cutoff": null
+          }
+        }
+      }
+    ],
+    "kdp-2026-05-20": [
+      {
+        "security": {
+          "type": "common",
+          "class": null
+        },
+        "amount": {
+          "value": "0.23",
+          "currency": "USD",
+          "unit": "per_share",
+          "period": "quarterly"
+        },
+        "split_basis": "source_nominal_unadjusted",
+        "dates": {
+          "payment": {
+            "value": "2026-07-10",
+            "status": "explicit",
+            "qualification": "scheduled",
+            "cutoff": null
+          },
+          "record": {
+            "value": "2026-06-26",
+            "status": "explicit",
+            "qualification": null,
+            "cutoff": null
+          },
+          "ex_dividend": {
+            "value": null,
+            "status": "absent",
+            "qualification": null,
+            "cutoff": null
+          }
+        }
+      }
+    ]
+  },
+  "required_review_documents": [
+    "msft-2025-09-15",
+    "jnj-2025-04-15",
+    "visa-2025-10-28",
+    "mastercard-2025-06-24",
+    "costco-2025-07-16"
+  ],
+  "required_unresolved_topics": {
+    "visa-2025-10-28": [
+      "as-converted other securities; unknown class-specific nominal amounts"
+    ]
+  }
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "document_id": "msft-2025-09-15",
+    "issuer": "Microsoft Corporation",
+    "url": "https://news.microsoft.com/source/2025/09/15/microsoft-announces-quarterly-dividend-increase-6/",
+    "retrieved_at": "2026-10-16T19:24:27Z",
+    "explicit_publication_date": "2025-09-15",
+    "text": "Context-preserving paraphrase of the relevant dividend passage (not a verbatim quotation):\nMicrosoft reported on September 15, 2025 that its board approved a quarterly dividend of $0.91 for each share. This is an increase of 8 cents, or 10%, over the preceding quarterly dividend. Payment is scheduled for December 11, 2025; the shareholder record date and ex-dividend date are both November 20, 2025. The same announcement separately schedules the annual shareholder meeting for December 5, 2025, with September 30, 2025 as the close-of-business record date for voting eligibility.",
+    "provenance": {
+      "source_type": "official issuer website",
+      "locator": "Dividend paragraph and immediately following annual-meeting paragraph",
+      "representation": "context-preserving paraphrase",
+      "collection": "fresh independent source collection; no parser or reference answers inspected"
+    },
+    "currency_context": null,
+    "currency_evidence": {
+      "url": "https://news.microsoft.com/source/2025/09/15/microsoft-announces-quarterly-dividend-increase-6/",
+      "locator": "Dividend paragraph and immediately following annual-meeting paragraph",
+      "summary": "Passage uses $ or cents without an explicit currency code; domicile and exchange listing are not used to infer USD."
+    }
+  },
+  {
+    "document_id": "jnj-2025-04-15",
+    "issuer": "Johnson & Johnson",
+    "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-announces-63rd-consecutive-year-of-dividend-increase-raises-quarterly-dividend-by-4-8",
+    "retrieved_at": "2026-10-16T19:24:27Z",
+    "explicit_publication_date": "2025-04-15",
+    "text": "Context-preserving paraphrase of the relevant dividend passage (not a verbatim quotation):\nOn April 15, 2025, Johnson & Johnson announced its board had raised the quarterly dividend 4.8%, moving from $1.24 to $1.30 for each share. This extends its consecutive annual increases to 63 years. The indicated annual amount becomes $5.20 per share, versus $4.96 previously. The next quarterly payment is due June 10, 2025. Eligibility requires being a shareholder of record at the close of business on May 27, 2025; May 27, 2025 is also the ex-dividend date.",
+    "provenance": {
+      "source_type": "official issuer website",
+      "locator": "Opening two dividend paragraphs, web-rendered lines 275–276",
+      "representation": "context-preserving paraphrase",
+      "collection": "fresh independent source collection; no parser or reference answers inspected"
+    },
+    "currency_context": null,
+    "currency_evidence": {
+      "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-announces-63rd-consecutive-year-of-dividend-increase-raises-quarterly-dividend-by-4-8",
+      "locator": "Opening two dividend paragraphs, web-rendered lines 275–276",
+      "summary": "Passage uses $ or cents without an explicit currency code; domicile and exchange listing are not used to infer USD."
+    }
+  },
+  {
+    "document_id": "visa-2025-10-28",
+    "issuer": "Visa Inc.",
+    "url": "https://www.sec.gov/Archives/edgar/data/1403161/000140316125000077/q42025earningsrelease.htm",
+    "retrieved_at": "2026-10-16T19:24:27Z",
+    "explicit_publication_date": "2025-10-28",
+    "text": "Context-preserving paraphrase of the relevant dividend passage (not a verbatim quotation):\nThe October 28, 2025 earnings release highlights a 14% increase in the quarterly cash dividend to $0.670 for each share. In Other Notable Items, Visa states that its board declared this increase on October 28, 2025. The rate applies to class A common shares; all other outstanding common and preferred shares are measured on an as-converted basis. Payment is due December 1, 2025 to holders recorded as of November 12, 2025.",
+    "provenance": {
+      "source_type": "official issuer release on SEC",
+      "locator": "Dividend highlight and complete dividend paragraph under Other Notable Items, web-rendered lines 14 and 97",
+      "representation": "context-preserving paraphrase",
+      "collection": "fresh independent source collection; no parser or reference answers inspected"
+    },
+    "currency_context": null,
+    "currency_evidence": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1403161/000140316125000077/q42025earningsrelease.htm",
+      "locator": "Dividend highlight and complete dividend paragraph under Other Notable Items, web-rendered lines 14 and 97",
+      "summary": "Dividend uses $; USD labels in the income statement are not treated as explicit dividend-currency evidence."
+    }
+  },
+  {
+    "document_id": "mastercard-2025-06-24",
+    "issuer": "Mastercard Incorporated",
+    "url": "https://investor.mastercard.com/investor-news/investor-news-details/2025/Mastercard-Board-of-Directors-Announces-Quarterly-Dividend-9062c18e0/default.aspx",
+    "retrieved_at": "2026-10-16T19:24:27Z",
+    "explicit_publication_date": "2025-06-24",
+    "text": "Context-preserving paraphrase of the relevant dividend passage (not a verbatim quotation):\nMastercard announced on June 24, 2025 that its board approved a quarterly cash distribution of 76 cents for each share. Payment on August 8, 2025 will go to holders of both Class A common shares and Class B common shares recorded as of July 9, 2025.",
+    "provenance": {
+      "source_type": "official issuer website",
+      "locator": "Complete dividend paragraph, web-rendered line 62",
+      "representation": "context-preserving paraphrase",
+      "collection": "fresh independent source collection; no parser or reference answers inspected"
+    },
+    "currency_context": null,
+    "currency_evidence": {
+      "url": "https://investor.mastercard.com/investor-news/investor-news-details/2025/Mastercard-Board-of-Directors-Announces-Quarterly-Dividend-9062c18e0/default.aspx",
+      "locator": "Complete dividend paragraph, web-rendered line 62",
+      "summary": "Passage uses $ or cents without an explicit currency code; domicile and exchange listing are not used to infer USD."
+    }
+  },
+  {
+    "document_id": "costco-2025-07-16",
+    "issuer": "Costco Wholesale Corporation",
+    "url": "https://investor.costco.com/news/news-details/2025/Costco-Wholesale-Corporation-Announces-Quarterly-Cash-Dividend-260470ddb/default.aspx",
+    "retrieved_at": "2026-10-16T19:24:27Z",
+    "explicit_publication_date": "2025-07-16",
+    "text": "Context-preserving paraphrase of the relevant dividend passage (not a verbatim quotation):\nIn its July 16, 2025 announcement, Costco said its board had declared a quarterly cash dividend on common shares at $1.30 for each share. The payment is due August 15, 2025. Shareholders must be recorded at the close of business on August 1, 2025 to receive it.",
+    "provenance": {
+      "source_type": "official issuer website",
+      "locator": "Complete dividend paragraph, web-rendered line 35",
+      "representation": "context-preserving paraphrase",
+      "collection": "fresh independent source collection; no parser or reference answers inspected"
+    },
+    "currency_context": null,
+    "currency_evidence": {
+      "url": "https://investor.costco.com/news/news-details/2025/Costco-Wholesale-Corporation-Announces-Quarterly-Cash-Dividend-260470ddb/default.aspx",
+      "locator": "Complete dividend paragraph, web-rendered line 35",
+      "summary": "Passage uses $ or cents without an explicit currency code; domicile and exchange listing are not used to infer USD."
+    }
+  },
+  {
+    "document_id": "kdp-2026-05-20",
+    "issuer": "Keurig Dr Pepper Inc.",
+    "url": "https://investors.keurigdrpepper.com/2026-05-20-Keurig-Dr-Pepper-Declares-Quarterly-Dividend",
+    "retrieved_at": "2026-10-16T19:24:27Z",
+    "explicit_publication_date": "2026-05-20",
+    "text": "Context-preserving paraphrase of the relevant dividend passage (not a verbatim quotation):\nOn May 20, 2026, Keurig Dr Pepper announced board approval of a regular quarterly cash dividend on its common shares, at $0.23 for each share and payable in U.S. dollars. Payment is scheduled for July 10, 2026, to shareholders recorded on June 26, 2026.",
+    "provenance": {
+      "source_type": "official issuer website",
+      "locator": "Complete dividend paragraph, web-rendered line 68",
+      "representation": "context-preserving paraphrase",
+      "collection": "fresh independent source collection; no parser or reference answers inspected"
+    },
+    "currency_context": "USD",
+    "currency_evidence": {
+      "url": "https://investors.keurigdrpepper.com/2026-05-20-Keurig-Dr-Pepper-Declares-Quarterly-Dividend",
+      "locator": "Complete dividend paragraph, web-rendered line 68",
+      "summary": "The dividend paragraph explicitly identifies payment currency as U.S. dollars."
+    }
+  }
+]

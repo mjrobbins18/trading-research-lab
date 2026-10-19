@@ -1,0 +1,68 @@
+[
+  {
+    "issuer": "NIKE, Inc.",
+    "url": "https://investors.nike.com/news-events/press-releases/detail/552/nike-inc-declares-0-40-quarterly-dividend",
+    "retrieved_at": "2026-10-16T19:49:24Z",
+    "explicit_publication_date": "2025-08-07",
+    "text": "Context-preserving paraphrase (not verbatim): NIKE's August 7, 2025 announcement reports board approval of a quarterly cash distribution at $0.40 a share for its outstanding Class A and Class B Common Stock. October 1, 2025 is the payment date; eligibility belongs to shareholders recorded when business closes on September 2, 2025.",
+    "provenance": "Official NIKE investor-relations release; opened and verified the declaration paragraph and Released August 7, 2025 footer. Only relevant dividend passage paraphrased.",
+    "currency_context": null,
+    "currency_evidence": "The declaration uses $, without explicitly identifying USD; issuer location and exchange listing are not currency evidence.",
+    "document_id": "v6-fresh-01-nike"
+  },
+  {
+    "issuer": "Target Corporation",
+    "url": "https://corporate.target.com/press/release/2025/06/target-corporation-increases-quarterly-dividend-by-1-8-percent",
+    "retrieved_at": "2026-10-16T19:49:24Z",
+    "explicit_publication_date": "2025-06-12",
+    "text": "Context-preserving paraphrase (not verbatim): On June 12, 2025, Target announced a board-declared quarterly dividend at $1.14 for each common share. The prior quarterly rate was $1.12, making this a 1.8% increase. Payment is due Sept. 1, 2025, with entitlement determined by the shareholder record at business close August 13, 2025. This third-quarter distribution will mark 232 consecutive dividend payments since the company went public in October 1967. The increase puts 2025 on course to be its 54th straight year of annual dividend growth.",
+    "provenance": "Official Target corporate financial release; publication heading and complete dividend paragraph verified. Prior quarterly amount and historical annual-growth distinction retained.",
+    "currency_context": null,
+    "currency_evidence": "Dollar signs appear in the dividend amounts, but the relevant source does not explicitly name USD.",
+    "document_id": "v6-fresh-02-target"
+  },
+  {
+    "issuer": "McDonald's Corporation",
+    "url": "https://corporate.mcdonalds.com/content/dam/sites/corp/nfl/pdf/Q4_25_Dividend_Release.pdf",
+    "retrieved_at": "2026-10-16T19:49:24Z",
+    "explicit_publication_date": "2025-10-22",
+    "text": "Context-preserving paraphrase (not verbatim): McDonald's October 22, 2025 investor release announces that the board set a quarterly cash dividend at $1.86 for each common-stock share, payable December 15, 2025. Shareholders must be on record when business closes December 1, 2025. The rate rises 5% over the previous quarterly dividend, reflecting confidence in the company's growth strategy. At the new quarterly rate, the equivalent annual amount is $7.44 a share. McDonald's has increased its dividend for 49 successive years, after first paying one in 1976.",
+    "provenance": "Official McDonald's investor-release PDF, one page; text extraction verified publication date and dividend paragraphs. Annual equivalent retained separately from quarterly amount.",
+    "currency_context": null,
+    "currency_evidence": "The PDF specifies dividend values with $, without an explicit USD currency designation.",
+    "document_id": "v6-fresh-03-mcdonalds"
+  },
+  {
+    "issuer": "The Home Depot",
+    "url": "https://ir.homedepot.com/news-releases/2025/08-21-2025-211019299",
+    "retrieved_at": "2026-10-16T19:49:24Z",
+    "explicit_publication_date": "2025-08-21",
+    "text": "Context-preserving paraphrase (not verbatim): In its August 21, 2025 release, The Home Depot says its directors declared a quarterly cash dividend at $2.30 a share. It becomes payable September 18, 2025, for shareholders on record at the close of business September 4, 2025. The company identifies this as its 154th consecutive quarter of cash dividend payments.",
+    "provenance": "Official Home Depot investor-relations release; dated heading and full dividend paragraph verified. The source paragraph does not specify common stock or a subclass, so none was added.",
+    "currency_context": null,
+    "currency_evidence": "Only the $ symbol identifies the dividend denomination; USD is not explicitly established.",
+    "document_id": "v6-fresh-04-homedepot"
+  },
+  {
+    "issuer": "Chevron Corporation",
+    "url": "https://chevroncorp.gcs-web.com/news-releases/news-release-details/chevron-reports-fourth-quarter-2025-results",
+    "retrieved_at": "2026-10-16T19:49:24Z",
+    "explicit_publication_date": "2026-01-30",
+    "text": "Context-preserving paraphrase (not verbatim): Chevron's January 30, 2026 fourth-quarter 2025 results announcement reports $27.1 billion returned in cash to shareholders over the year: $12.1 billion in repurchases, $12.8 billion in dividends and $2.2 billion in Hess share purchases early in 2025. Directors declared a 4% rise in the quarterly dividend, setting it at one dollar and seventy-eight cents ($1.78) a share. It is payable March 10, 2026. The recipients are common-stock holders appearing in the corporation's transfer records when business closes February 17, 2026.",
+    "provenance": "Official Chevron investor-relations release on issuer's hosted IR site; dividend bullet and adjacent annual cash-return bullet verified. Publication also corroborated by official chevron.com newsroom search result. Direct newsroom open returned an internal error, but the hosted IR release opened successfully.",
+    "currency_context": null,
+    "currency_evidence": "The dividend is expressed in dollars and $, without explicitly identifying those dollars as USD.",
+    "document_id": "v6-fresh-05-chevron"
+  },
+  {
+    "issuer": "Cisco Systems, Inc.",
+    "url": "https://investor.cisco.com/news/news-details/2025/CISCO-REPORTS-THIRD-QUARTER-EARNINGS/default.aspx",
+    "retrieved_at": "2026-10-16T19:49:24Z",
+    "explicit_publication_date": "2025-05-14",
+    "text": "Context-preserving paraphrase (not verbatim): Cisco's May 14, 2025 earnings announcement says a quarterly dividend has been declared at $0.41 for each common share, to be paid July 23, 2025. All stockholders recorded as of business close July 3, 2025 qualify. Later dividends require approval by the board. Separately, the release describes capital allocation during the third quarter of fiscal 2025: a cash dividend already declared and paid was $0.41 per common share, totaling $1.6 billion, within $3.1 billion returned through dividends and share buybacks.",
+    "provenance": "Official Cisco investor-relations earnings release; dated heading, Cisco Declares Quarterly Dividend passage and Capital Allocation paragraph verified. Future payment kept distinct from the reported past-quarter cash payment.",
+    "currency_context": null,
+    "currency_evidence": "The dividend passages use $, without explicit USD identification.",
+    "document_id": "v6-fresh-06-cisco"
+  }
+]

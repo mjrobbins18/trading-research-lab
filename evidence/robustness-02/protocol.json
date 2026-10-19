@@ -1,0 +1,20 @@
+{
+  "status": "Predeclared before new runs; retrospective descriptive stress, not holdout",
+  "rule": "Frozen ten-month total-return moving-average trend; 99% target; integer shares; no tuning",
+  "modes": ["trend", "spy", "mixed"],
+  "bps_each_side": [0, 5, 10, 25],
+  "additional_execution_sessions": [0, 1, 2],
+  "periods": [
+    ["financial_crisis", "2007-12-31", "2009-12-31", "work/market-data"],
+    ["expansion", "2009-12-31", "2019-12-31", "work/market-data"],
+    ["pandemic_rates", "2019-12-31", "2022-12-30", "work/market-data"],
+    ["recent_payment_verified", "2023-12-29", "2026-08-31", "work/release/data"]
+  ],
+  "new_variant": "Delayed staged orders: retain close-sized quantity; fill next open plus additional sessions; reject unaffordable buys; do not use future opens for sizing. Delay applies independently to sale and subsequent buy.",
+  "benchmarks": "Existing frozen SPY monthly cash reinvestment and monthly 49.5/49.5 SPY/BIL; no tax or cash interest",
+  "cost_exposure_diagnostic": "Replay fixed zero-cost fill quantities; subtract cumulative absolute raw opening notional times bps from gross NAV. This isolates direct cost and is monotonic; it is NOT a feasible cash-constrained trading simulation.",
+  "metrics": ["net total return", "CAGR", "max drawdown including initial capital", "daily Sharpe with zero risk-free rate", "fills", "cancellations", "mean SPY exposure"],
+  "decision_rule": "No claim of investment advantage unless trend improves net risk-adjusted results consistently across periods and cost/delay stresses. Operational proxy: higher zero-risk-free Sharpe than both benchmarks in all scenarios and no worse drawdown. Failure means no-go for efficacy claim; passing is still descriptive, not proof.",
+  "subscription_drag": "300 USD per calendar month external expense, subtract ending wealth, not brokerage fee or internally resimulated cost",
+  "limitations": ["Calendar regimes selected with knowledge of history", "Long sample uses known imperfect frozen Yahoo ex-date accounting, including old distribution anomalies; exploratory only", "Recent payment dates are validated retrospectively, not point-in-time", "No liquidity, taxes, market impact, spread variation or independent delayed-engine validation", "Existing strategy and all these periods already observable; no statistical independence or untouched holdout", "No LLM interventions"]
+}

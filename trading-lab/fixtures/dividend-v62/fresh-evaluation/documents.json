@@ -1,0 +1,95 @@
+[
+  {
+    "document_id": "fresh-v61-cmc",
+    "issuer": "CMC",
+    "url": "https://www.cmc.com/newsroom/cmc-announces-quarterly-dividend-of-%240-20-per-share",
+    "retrieved_at": "2026-10-16T19:54:55Z",
+    "explicit_publication_date": "2026-06-24",
+    "text": "Context-preserving paraphrase (not verbatim):\nCMC (NYSE: CMC) announced in Irving on June 24, 2026 that its directors had declared a regular quarterly cash dividend that day. Each share of CMC common stock will receive $0.20. Payment of this 247th consecutive quarterly dividend is scheduled for July 15, 2026, with entitlement determined by the stockholder register at the close of business on July 6, 2026.",
+    "provenance": {
+      "type": "official_issuer_notice",
+      "method": "Web search discovery followed by opening the official issuer page; bounded dividend passage and associated publication/listing context.",
+      "source_url": "https://www.cmc.com/newsroom/cmc-announces-quarterly-dividend-of-%240-20-per-share"
+    },
+    "currency_context": null,
+    "currency_evidence": null
+  },
+  {
+    "document_id": "fresh-v61-nvidia",
+    "issuer": "NVIDIA Corporation",
+    "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-First-Quarter-Fiscal-2027/default.aspx",
+    "retrieved_at": "2026-10-16T19:54:55Z",
+    "explicit_publication_date": "2026-05-20",
+    "text": "Context-preserving paraphrase (not verbatim):\nNVIDIA (NASDAQ: NVDA), in its May 20, 2026 results announcement for the first quarter of fiscal 2027, said its quarterly cash dividend on common stock is rising to $0.25 a share from $0.01. Shareholders on the register on June 4, 2026 will receive the payment on June 26, 2026. Separately, the directors authorized an additional $80.0 billion for share repurchases on May 18, 2026; that authorization has no expiry date.",
+    "provenance": {
+      "type": "official_issuer_notice",
+      "method": "Web search discovery followed by opening the official issuer page; bounded dividend passage and associated publication/listing context.",
+      "source_url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-First-Quarter-Fiscal-2027/default.aspx"
+    },
+    "currency_context": null,
+    "currency_evidence": null
+  },
+  {
+    "document_id": "fresh-v61-agnico",
+    "issuer": "Agnico Eagle Mines Limited",
+    "url": "https://agnicoeagle.com/English/news-and-media/news-releases/news-details/2026/AGNICO-EAGLE-REPORTS-SECOND-QUARTER-2026-RESULTS---RECORD-QUARTERLY-FREE-CASH-FLOW-REFLECTS-SOLID-OPERATIONAL-PERFORMANCE-RECORD-QUARTERLY-SHAREHOLDER-RETURNS/default.aspx",
+    "retrieved_at": "2026-10-16T19:54:55Z",
+    "explicit_publication_date": "2026-07-29",
+    "text": "Context-preserving paraphrase (not verbatim):\nAgnico Eagle Mines Limited (NYSE and TSX: AEM) released second-quarter results on July 29, 2026. The release specifies that amounts are in U.S. dollars unless indicated otherwise. Its board has declared a quarterly cash dividend of $0.45 for each common share. The third-quarter distribution is payable September 15, 2026 to holders of record September 1, 2026. The accompanying fiscal-year schedule labels the March 16 and June 15 payments as paid, the September 15 payment as declared, and lists December 1 and December 15 as the expected fourth-quarter record and payment dates. A cash dividend has been declared in each year since 1983.",
+    "provenance": {
+      "type": "official_issuer_notice",
+      "method": "Web search discovery followed by opening the official issuer page; bounded dividend passage and associated publication/listing context.",
+      "source_url": "https://agnicoeagle.com/English/news-and-media/news-releases/news-details/2026/AGNICO-EAGLE-REPORTS-SECOND-QUARTER-2026-RESULTS---RECORD-QUARTERLY-FREE-CASH-FLOW-REFLECTS-SOLID-OPERATIONAL-PERFORMANCE-RECORD-QUARTERLY-SHAREHOLDER-RETURNS/default.aspx"
+    },
+    "currency_context": "USD",
+    "currency_evidence": {
+      "url": "https://agnicoeagle.com/English/news-and-media/news-releases/news-details/2026/AGNICO-EAGLE-REPORTS-SECOND-QUARTER-2026-RESULTS---RECORD-QUARTERLY-FREE-CASH-FLOW-REFLECTS-SOLID-OPERATIONAL-PERFORMANCE-RECORD-QUARTERLY-SHAREHOLDER-RETURNS/default.aspx",
+      "summary": "The issuer release explicitly states all amounts are expressed in U.S. dollars unless otherwise noted; the quarterly common-share dividend is $0.45 with no contrary currency designation."
+    }
+  },
+  {
+    "document_id": "fresh-v61-broadcom",
+    "issuer": "Broadcom Inc.",
+    "url": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-inc-announces-third-quarter-fiscal-year-2026-financial",
+    "retrieved_at": "2026-10-16T19:54:55Z",
+    "explicit_publication_date": "2026-09-02",
+    "text": "Context-preserving paraphrase (not verbatim):\nBroadcom Inc. (Nasdaq: AVGO) announced fiscal third-quarter results on September 2, 2026, including a quarterly common stock dividend of $0.65 per share. The board approved this cash distribution for payment September 30, 2026; the record cutoff is the close of business, 5:00 p.m. Eastern Time, on September 21, 2026. The release also reports that a previous $0.65-per-share cash dividend was paid June 30, 2026, totaling $3.1 billion.",
+    "provenance": {
+      "type": "official_issuer_notice",
+      "method": "Web search discovery followed by opening the official issuer page; bounded dividend passage and associated publication/listing context.",
+      "source_url": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-inc-announces-third-quarter-fiscal-year-2026-financial"
+    },
+    "currency_context": null,
+    "currency_evidence": null
+  },
+  {
+    "document_id": "fresh-v61-comcast",
+    "issuer": "Comcast Corporation",
+    "url": "https://www.cmcsa.com/news-releases/news-release-details/comcast-maintains-dividend-annualized-basis-2026",
+    "retrieved_at": "2026-10-16T19:54:55Z",
+    "explicit_publication_date": "2026-01-29",
+    "text": "Context-preserving paraphrase (not verbatim):\nOn January 29, 2026, Comcast Corporation (NASDAQ: CMCSA) announced it would keep its annualized dividend at $1.32 per share for 2026. In connection with that policy, its board declared a quarterly cash distribution of $0.33 for each share of common stock. This installment is due April 22, 2026 to shareholders recorded at the close of business April 1, 2026.",
+    "provenance": {
+      "type": "official_issuer_notice",
+      "method": "Web search discovery followed by opening the official issuer page; bounded dividend passage and associated publication/listing context.",
+      "source_url": "https://www.cmcsa.com/news-releases/news-release-details/comcast-maintains-dividend-annualized-basis-2026"
+    },
+    "currency_context": null,
+    "currency_evidence": null
+  },
+  {
+    "document_id": "fresh-v61-ups",
+    "issuer": "United Parcel Service, Inc.",
+    "url": "https://about.ups.com/us/en/newsroom/press-releases/financials/ups-announces-quarterly-dividend6.html",
+    "retrieved_at": "2026-10-16T19:54:55Z",
+    "explicit_publication_date": "2026-08-05",
+    "text": "Context-preserving paraphrase (not verbatim):\nUPS (NYSE: UPS) announced from Atlanta on August 5, 2026 that all outstanding Class A and Class B shares will receive its regular quarterly dividend of $1.64 per share. Shareowners of record August 17, 2026 are to be paid September 3, 2026. The company says it has maintained or raised its dividend each year since its 1999 public offering.",
+    "provenance": {
+      "type": "official_issuer_notice",
+      "method": "Web search discovery followed by opening the official issuer page; bounded dividend passage and associated publication/listing context.",
+      "source_url": "https://about.ups.com/us/en/newsroom/press-releases/financials/ups-announces-quarterly-dividend6.html"
+    },
+    "currency_context": null,
+    "currency_evidence": null
+  }
+]
